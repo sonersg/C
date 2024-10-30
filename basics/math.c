@@ -15,7 +15,7 @@ int main(){
     double J = tan(45);
 
     printf("%d", D);
-    // printf("%f", H);
+    // printf("%lf", H);
 
     return 0;
 }
