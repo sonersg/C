@@ -7,6 +7,11 @@ int main()
     ages[3] = 55;
 
     printf("%ld", ages[4]); // 0
+
+    for (int i = 0; i < sizeof(ages) / sizeof(ages[0]); i++)
+    {
+        printf("%.2ld\n", ages[i]);
+    }
     
     return 0;
 }
