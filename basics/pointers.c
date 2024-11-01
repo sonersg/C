@@ -3,9 +3,17 @@
 int main()
 {
     // POINTER:
-    // A "variable-like" reference that holdes a memory adress.
+    // A "variable-like" reference that holds a memory adress.
+
     // Some tasks are performed more easily with pointers.
-    // * : indirection operator (value at address)
+
+    // * : indirection operator
+
+    // address => the box itself
+    // value => stuff inside the box
+
+    // When declaring a variable, "*" says, this variable will hold an address.
+    // When reading a variable,   "*" says, gimme the value at the address.
 
     int age = 44;
     printf("value of age: %d\n", age);
