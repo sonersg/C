@@ -1,0 +1,49 @@
+C programming full course for beginners
+
+(1. Pic)
+Hello everyone, in this course,  you r going to write ur first C program
+This course is a great starting point for beginners. I excluded advanced topics and i tried to keep it simple as much as i could so you're alone with the fundamentals of programming but if u wanna discover more and find the individual videos, u can check the C programming Playlist on this YouTube channel
+
+
+(2nd pic)
+Now i will tell u 
+why u need to learn c 
+
+The C language was originated in 1970s.
+
+It is like the grandpa of other languages. 
+
+For example. python is written in C and many other languages were influenced by its syntax.
+
+C is not object-oriented. C++ was developed on top of C as object oriented language.
+
+Learning C helps you understand the fundamentals of programming, memory management, and computer architecture.
+
+
+--------------------------------------
+(3rd pic)
+C is the language of operating systems.
+
+It is a low level, compiled language.
+
+Provides access to hardware and memory via pointers.
+It has low level access and 
+this makes C more challenging for beginners but don't get discouraged, u can do it.
+
+low-level languages:
+are fast, 
+close to machine architecture
+and they consume less memory
+
+
+high-level languages:
+
+are beginner friendly
+
+easier to understand and abstract
+
+on the other hand, high-level languages:
+they are slow,
+they use more memory,
+and difficult to work with low level hardware
+
